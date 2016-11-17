@@ -4,23 +4,39 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Pods-testtt.xcscheme</key>
+		<key>Pods-testtt.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Pods-testttTests.xcscheme</key>
+		<key>Pods-testttTests.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Pods-testttUITests.xcscheme</key>
+		<key>Pods-testttUITests.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
-	<dict/>
+	<dict>
+		<key>69F98AD0DA926A5876628219C1D2F0EC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>838B9B378464369F4CF1FFAEAE6E53B5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A399FEA00DECA11962C0CA4E5179DD96</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
 </dict>
 </plist>
